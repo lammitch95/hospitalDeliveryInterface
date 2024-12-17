@@ -22,7 +22,7 @@ The purpose of PharmaTrac is to replace the existing manual process used in hosp
 
 **Additional Features:** PharmaTrac offers additional features such as light and dark mode, language switching (utilizing LibreTranslate API: https://github.com/dynomake/libretranslate-java.git), and integration with Algolia Search API (https://www.algolia.com/developers/search-api/) for enhanced search capabilities.
 
-## Application Demo
+## Application Screenshot
 ![Screenshot 2024-12-16 194839](https://github.com/user-attachments/assets/0acf89a0-5692-4506-a1e4-278a6a4df018) 
 
 ## Technologies Used
